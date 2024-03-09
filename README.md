@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nlaxmi886@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1NopNOpZKglCJHCoyWGAlP9UNTSlywE3Q?usp=drive_link)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1NopNOpZKglCJHCoyWGAlP9UNTSlywE3Q?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
