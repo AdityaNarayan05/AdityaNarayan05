@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityanj05" target="blank"><img src="https://img.shields.io/twitter/follow/adityanj05?logo=twitter&style=for-the-badge" alt="adityanj05" /></a> </p>
 
-- 🌱 I’m currently learning & excelling in **JavaScript, React & its Framework**
+- 🌱 I’m currently learning & excelling in **JavaScript, React & its Framework's**
 
 - 💬 Ask me about **Data structures and Algorithms, Frontend & Backend development, and System design**
 
