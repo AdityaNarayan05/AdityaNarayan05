@@ -1,0 +1,133 @@
+Aditya Narayan JaiswalIndia ·adityanar2001@gmail.com ·+91-7052386067 ·Linkedin ·GitHub ·LeetCode
+Education
+Indian Institute of Information Technology (IIIT), Bhopal Bhopal, M.P.
+B.Tech. Computer Science Engineering | Grade: 7.88/10 December 2020 - May 2024
+(Software Engineering, Computer Networks, DBMS, Operating systems, DSA, OOPs, System Design)
+Professional Experience
+INNOVATIVIEW INDIA LTD. April 2025 - Present
+SDE | Noida
+•Designed and implemented Kotlin-based Android and backend applications with features such as offline data
+handling, role-based access, and real-time sync, significantly improving usability and adoption.
+•Collaborated with the team to deliver 20+ features such as role assignment, offline-first data management with Room
+DB, and Retrofit/OkHttp-based API consumption, improving usability and adoption under tight deadlines.
+•Integrated multiple third-party SDKs and device services, including Aadhaar auth. SDK, biometric RD service
+devices, and Bluetooth/USB printer SDKs, ensuring reliable hardware–software interoperability for field operations.
+•Streamlined the codebase and resolved critical bugs, reducing app size by 15% and boosting runtime performance by
+20% without sacrificing functionality.
+•Worked end-to-end across mobile and backend layers by integrating Android features with Spring Boot REST APIs,
+optimizing API performance and ensuring robust synchronization with Room DB and AWS-deployed infrastructure.
+•Designed and implemented backend services with Spring Boot, Microservices architecture, and Spring Data JPA,
+including schema design, indexing, and JWT-based authentication for secure, role-based access.
+•Collaborated with cross-functional teams to align SDK/library integration and backend workflows, ensuring scalable
+and production-grade deployments.
+PESERIES NETWORK PVT. LTD. (Staype) July 2024 - March 2025
+SDE | Bangalore (Remote)
+•Revamped the user interface of the StayRealtor app using React Native, significantly enhancing the user experience.
+Designed and implemented a recommendation system that suggests relevant leads and properties to users, enhancing
+personalised engagement.
+•Implemented an infinite scrolling and pagination system for the property and leads sections on the Broker Network
+Pages, which improved load times and enhanced the overall user experience on high-traffic screens.
+•Engineered the notification system using Firebase Cloud Messaging (FCM), streamlining in-app notifications and
+ensuring timely updates for property and lead activities.
+•Implemented subdomain functionality enabling 500+ agents to create personalized websites, streamlining onboarding
+and boosting client engagement.
+AURA IT SOLUTIONS PVT. LTD. Feb 2023 - June 2023
+SDE Intern | Remote
+•Collaborated on a team tasked with migrating legacy applications to React, resulting in improved application speed
+and scalability.
+•Regularly interacted with the team lead and stakeholders to deliver software that met client specifications.
+•Generated comprehensive documentation outlining coding standards, best practices, and troubleshooting techniques,
+resulting in a reduction in code-related errors and enhancing team efficiency.
+Projects
+WHEREHOUSE.IO Feb 2024
+GitHub | Live
+•Built a full-stack application with React and Node.js/Express (backend) integrated with Google Sheets as datastore.
+•Architected backend data-sync workflows using Google Cloud Sheet Platform APIs, ensuring accuracy and reducing
+manual entry effort.
+•Deployed backend services with proper data flow pipelines, demonstrating backend integration and deployment skills.
+URL SHORTENER Oct 2023
+GitHub
+•Implements a robust URL shortening mechanism, enabling the conversion of lengthy URLs into concise, user-friendly
+short links. Handles over 100+ shortening requests per minute
+•Implemented a robust rate-limiting system, ensuring fair usage and preventing abuse. Maintained system stability
+and utilised Redis for an improvement in response time.
+Skills
+Mobile: Kotlin, Android, RoomDB, Firebase, React Native
+Backend: Java, Spring Boot, REST APIs, Redis, PostgreSQL, MySQL
+Cloud & DevOps: AWS, Docker, Git, GitHub, Firebase, Postman, Linux
+Tools & Platforms: Expo, Android Studio, IntelliJ IDEA, VS Code
+Soft Skills: Problem-solving, Leadership, Collaboration, Communication
+Position of Responsibility
+•As co-founder of Arunoday Club at IIIT Bhopal, promoted education equity, organised cultural events, and
+successfully conducted a blood donation camp with 100+ participants.
+•Led E-Cell, IIIT Bhopal, as Coordinator for the 2023-24 session.
+
+
+
+
+
+1
+
+Automatic Zoom
+Aditya Narayan JaiswalIndia · adityanar2001@gmail.com · +91-7052386067 · Linkedin · GitHub · LeetCode
+Education
+Indian Institute of Information Technology (IIIT), Bhopal Bhopal, M.P.
+B.Tech. Computer Science Engineering | Grade: 7.88/10 December 2020 - May 2024
+(Computer Networks, DBMS, Operating systems, DSA, OOPs, System Design)
+Professional Experience
+INNOVATIVIEW INDIA LTD. April 2025 - Present
+SDE | Noida
+CamView — Distributed Backend System (Java + Spring Boot)
+• Engineered HostMLAgent, a distributed backend system for real-time processing of RTSP camera streams using a
+dual-service architecture (Spring Boot + Python).
+• Built backend modules for camera allocation, shift-based scheduling, alarm aggregation, ML detection ingestion,
+health checks, and workload management.
+• Implemented a robust Java ↔ Python inter-service communication layer with request orchestration, retries,
+structured payloads, and typed APIs.
+• Optimized backend performance (reduced API latency by ∼30%) using JPA batching, caching strategies, async
+handlers, and WebClient-based integrations.
+• Deployed and monitored the system using AWS EC2, ASG, IAM, CloudWatch, and CDK-based IaC with automated
+CI/CD pipelines.
+VoIP Communication Platform — Spring Boot Backend
+• Built backend features for a secure communication platform including session handling, call metadata tracking,
+authentication, and event processing.
+• Designed REST APIs for internal dashboards to visualize call flow events, usage metrics, and device activity
+• Implemented backend logic for notification, permissions, and role-based access, improving system reliability.
+• Implemented production-grade CI/CD with GitHub Actions → CodeDeploy → EC2, including lifecycle hooks, health
+checks, auto-rollback, and log pipelines.
+PESERIES NETWORK PVT. LTD. (Staype) July 2024 - March 2025
+SDE | Bangalore (Remote)
+• Improved backend-driven app performance by optimizing API interactions, pagination logic, high-traffic data flows.
+• Implemented backend-driven recommendation logic and optimized API workflows, improving data fetch reliability for
+high-traffic user segments such as property & lead.
+• Built subdomain provisioning workflows and contributed to FCM-based platform notifications.
+AURA IT SOLUTIONS PVT. LTD. Feb 2023 - June 2023
+SDE Intern | Remote
+• Migrated legacy systems to modern API-driven architecture, improving backend–frontend integration performance.
+• Created documentation and standardized API usage patterns to reduce integration issues across teams.
+Projects
+WHEREHOUSE.IO Feb 2024
+GitHub | Live
+• Completed a challenging internship assignment, developing a full-stack web application using React and Chakra UI
+for the front end, Node.js and Express for the back end, and Google Sheets.
+• Architected and integrated data synchronisation functionalities with Google Cloud Platform’s Sheet API, enhancing
+data accuracy and reducing manual data entry time for improved operational efficiency.
+• Successfully deployed application and managed data storage in Google Sheets.
+URL SHORTENER Oct 2023
+GitHub
+• Implements a robust URL shortening mechanism, enabling the conversion of lengthy URLs into concise, user-friendly
+short links. Handles over 100+ shortening requests per minute
+• Implemented a robust rate-limiting system, ensuring fair usage and preventing abuse. Maintained system stability
+and utilised Redis for an improvement in response time.
+Skills
+Backend: Java, Spring Boot, REST APIs, Microservices, JPA/Hibernate, Redis
+Cloud & DevOps: AWS (EC2, ASG, S3, IAM, VPC, SSM, CloudWatch),
+AWS CDK (IaC), CodeDeploy, Load Balancing, CI/CD (GitHub Actions)
+Infra & Platform: Linux, Docker, System Design, Performance Optimization, Monitoring & Logging
+Databases: PostgreSQL, MySQL, DynamoDB, Redis
+Other: Python (service integrations), OpenAPI/Swagger, API Clients, LLMs
+Soft Skills: Problem-solving, Leadership, Collaboration, Communication
+Position of Responsibility
+• As co-founder of Arunoday Club at IIIT Bhopal, promoted education equity, organised cultural events, and
+successfully conducted a blood donation camp with 100+ participants.
+• Led E-Cell, IIIT Bhopal, as Coordinator for the 2023-24 session.

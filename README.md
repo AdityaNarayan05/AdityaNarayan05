@@ -1,34 +1,183 @@
-<h1 align="center">Hi 👋, I'm Aditya Narayan Jaiswal</h1>
-<h3 align="center">Aspiring Software Engineer | Final Year Computer Science Undergraduate | FullStack Developer @ Aura IT Solutions | Coordinator @ E-Cell IIIT Bhopal | Indian Institute of Information Technology, Bhopal</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Aditya Narayan Jaiswal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityanarayan05&label=Profile%20views&color=0e75b6&style=flat" alt="adityanarayan05" /> </p>
+### Software Engineer | Backend & Mobile Developer
 
-<p align="left"> <a href="https://twitter.com/adityanj05" target="blank"><img src="https://img.shields.io/twitter/follow/adityanj05?logo=twitter&style=for-the-badge" alt="adityanj05" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityanarayanjaiswal/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaNarayan05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/callmemohi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityanar2001@gmail.com)
 
-- 🌱 I’m currently learning & excelling in **JavaScript, React & its Framework's**
+</div>
 
-- 💬 Ask me about **Data structures and Algorithms, Frontend & Backend development, and System design**
+---
 
-- 📫 How to reach me **nlaxmi886@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1NopNOpZKglCJHCoyWGAlP9UNTSlywE3Q?usp=drive_link)
+I'm a **Software Engineer** with expertise in **Backend Development**, **Android Development**, and **Full-Stack Engineering**. Currently working at **INNOVATIVIEW INDIA LTD.** as an SDE, building scalable distributed systems and mobile applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adityanj05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityanj05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adityanarayanjaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adityanarayanjaiswal/" height="30" width="40" /></a>
-<a href="https://medium.com/@nlaxmi886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nlaxmi886" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/callmemohi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/callmemohi/" height="30" width="40" /></a>
-</p>
+- 🎓 **B.Tech in Computer Science** from **IIIT Bhopal** (CGPA: 7.88/10)
+- 💼 **2+ years** of professional experience in software development
+- 🔧 Specialized in **Spring Boot**, **Microservices**, **Android (Kotlin)**, and **Cloud Infrastructure**
+- 🌱 Currently working on distributed systems, real-time processing, and cloud-native applications
+- 📫 Reach me at: **adityanar2001@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanarayan05&show_icons=true&locale=en&layout=compact" alt="adityanarayan05" /></p>
+## 💼 Professional Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityanarayan05&show_icons=true&locale=en" alt="adityanarayan05" /></p>
+### 🏢 INNOVATIVIEW INDIA LTD. | SDE
+**April 2025 - Present | Noida**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanarayan05&" alt="adityanarayan05" /></p>
+**Backend & Android Development:**
+- Architected **distributed backend systems** using **Spring Boot** and **Microservices** for real-time RTSP camera stream processing
+- Built **Kotlin-based Android applications** with offline-first architecture using **Room DB**, achieving **20% performance improvement**
+- Implemented **JWT-based authentication**, role-based access control, and secure API integrations
+- Optimized API latency by **~30%** through JPA batching, caching strategies, and async handlers
+- Deployed production systems on **AWS (EC2, ASG, CloudWatch)** with **CI/CD pipelines** using GitHub Actions and CodeDeploy
+- Integrated third-party SDKs including Aadhaar authentication, biometric devices, and Bluetooth/USB printer services
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/adityanarayan05"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityanarayan05" /></a></p><br><br>
+### 🏢 PESERIES NETWORK PVT. LTD. (Staype) | SDE
+**July 2024 - March 2025 | Bangalore (Remote)**
+
+- Revamped **React Native** mobile app UI, implementing recommendation systems and infinite scrolling
+- Engineered **Firebase Cloud Messaging (FCM)** notification system for real-time updates
+- Built **subdomain provisioning** enabling 500+ agents to create personalized websites
+- Optimized backend-driven API workflows for high-traffic property and lead management
+
+### 🏢 AURA IT SOLUTIONS PVT. LTD. | SDE Intern
+**Feb 2023 - June 2023 | Remote**
+
+- Migrated legacy applications to **React**, improving application speed and scalability
+- Created comprehensive documentation for coding standards and best practices
+- Collaborated with cross-functional teams to deliver client-specific solutions
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=microservices&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+### Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=flat&logo=google&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 📦 [WHEREHOUSE.IO](https://github.com/AdityaNarayan05/wherehouse-io)
+**Full-Stack Inventory Management System**
+- Built with **React**, **Node.js/Express**, and **Google Sheets API**
+- Architected backend data-sync workflows with Google Cloud Platform APIs
+- Deployed with proper CI/CD pipelines demonstrating production-grade deployment skills
+- **Tech Stack:** React, Node.js, Express, Google Cloud Platform, Chakra UI
+
+### 🔗 [URL Shortener](https://github.com/AdityaNarayan05/url-shortener)
+**High-Performance URL Shortening Service**
+- Handles **100+ requests per minute** with robust rate-limiting
+- Implemented **Redis caching** for improved response times
+- Built with scalability and fair usage policies in mind
+- **Tech Stack:** Node.js, Express, Redis, PostgreSQL
+
+### 📱 Android & Backend Projects
+- **CamView:** Distributed backend system for real-time RTSP camera stream processing
+- **VoIP Platform:** Secure communication platform with session handling and call metadata tracking
+- **StayRealtor App:** React Native mobile application with recommendation system
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaNarayan05&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNarayan05&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaNarayan05&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🎯 **E-Cell Coordinator** at IIIT Bhopal (2023-24)
+- 🌟 **Co-founder of Arunoday Club** at IIIT Bhopal
+  - Promoted education equity and organized cultural events
+  - Successfully conducted blood donation camp with **100+ participants**
+- 💻 Solved **500+ problems** on LeetCode and competitive programming platforms
+- 🚀 Delivered **20+ production features** across mobile and backend systems
+
+---
+
+## 📈 What I'm Currently Working On
+
+- 🔨 Building scalable **distributed systems** with Spring Boot and Microservices
+- 📱 Developing **Android applications** with Kotlin and modern architecture patterns
+- ☁️ Exploring **AWS cloud services** and infrastructure as code (CDK)
+- 🧠 Learning advanced **system design** and **performance optimization** techniques
+
+---
+
+## 💡 Core Competencies
+
+```
+Backend Engineering    ████████████████████ 95%
+Android Development    ███████████████████░ 90%
+Cloud & DevOps        ██████████████████░░ 85%
+System Design         █████████████████░░░ 80%
+Full-Stack Development ████████████████░░░░ 75%
+```
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on interesting projects or discussing technology. Feel free to reach out!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/adityanarayanjaiswal/)
+- 🐙 [GitHub](https://github.com/AdityaNarayan05)
+- 💻 [LeetCode](https://leetcode.com/callmemohi/)
+- 📧 [Email](mailto:adityanar2001@gmail.com)
+- 📱 Phone: +91-7052386067
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaNarayan05&color=blueviolet&style=flat-square)
+
+⭐️ From [AdityaNarayan05](https://github.com/AdityaNarayan05)
+
+</div>
