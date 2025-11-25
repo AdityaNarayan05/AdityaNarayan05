@@ -102,37 +102,6 @@ const aditya = {
 
 <div align="center">
 
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">WHEREHOUSE.IO</h3>
-<div align="center">  
-<a href="https://github.com/AdityaNarayan05/Warehouse" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan05&repo=Warehouse&theme=tokyonight&hide_border=true" alt="Warehouse" />
-</a>
-<p><strong>Full-Stack Inventory System</strong> - React, Node.js, Google Sheets API</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">URL Shortener</h3>
-<div align="center">
-<a href="https://github.com/AdityaNarayan05/shorten-url" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaNarayan05&repo=shorten-url&theme=tokyonight&hide_border=true" alt="URL Shortener" />
-</a>
-<p><strong>High-Performance Service</strong> - Node.js, Redis, PostgreSQL</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ## 💼 Experience Highlights
 
 ```yaml
@@ -158,9 +127,6 @@ Previous: SDE @ Staype (PESERIES NETWORK)
 
 🎓 **B.Tech CSE** - IIIT Bhopal (7.88/10)  
 🏆 **E-Cell Coordinator** - IIIT Bhopal 2023-24  
-🌟 **Co-founder** - Arunoday Club  
-💻 **500+ Problems** - LeetCode & Competitive Programming  
-🚀 **20+ Features** - Delivered in Production
 
 </div>
 
